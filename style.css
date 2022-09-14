@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(image/milky-way-2695569_1280.jpg)
+}
+body{
+    color:rgb(255, 255, 255)
+}
+ul{
+text-align: left;
+}
+div{
+    margin: 50px;
+    padding: 20px;
+    background-color: rgba(40, 4, 47, 0.258);
+    border-radius: 30px;
+    border-top: solid white;
+    border-left: solid white;
+    border-right: solid white;
+    border-bottom: solid white;
+    border: 0.5px : white
+}
+#photo-2-frères {
+    border-radius: 250px;
+}
+.disco {
+margin-right: 750px;
+}
+ol{
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+#photo-2-frères{
+ text-align:left ;
+}
+
+.bio {
+    margin-left: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
